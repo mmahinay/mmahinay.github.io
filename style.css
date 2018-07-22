@@ -1,0 +1,53 @@
+body{
+	background: #a5cf54;
+}
+.melHomeDiv .align-self-center{
+    margin-top: 20%;
+    text-align: center;
+	color: #fece5a;
+ }
+  .melHomeDiv .mel button{
+  		margin-top: -150px;
+  }
+ .melHomeDiv .mel .btn-warning{
+    color: #ffffff;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    border-width: 22px;
+}
+
+.melHomeDiv .mel .btn-warning:hover {
+  background-color: #ffc107;
+  border-color: #ffc107;
+  border-width: 22px;
+  cursor: pointer;
+}
+.melHomeDiv .mel .btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+}  
+.melHomeDiv .btn-outline-danger.melHomeDiv .btn-outline-danger:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+ }
+.melHomeDiv .btn-outline-danger:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    border-width: 5px;
+}
+.melHomeDiv .mel .btn a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.melHomeDiv .mel .btn a:hover{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
